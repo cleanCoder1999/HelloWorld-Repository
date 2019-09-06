@@ -41,3 +41,12 @@ p {
   font-style: normal;
   font-size: 20px;
 }
+
+#repo-links {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: "Euclid", sans-serif;
+  font-style: bold;
+  font-size: 45px;
+}  
+  
