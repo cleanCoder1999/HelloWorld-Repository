@@ -9,21 +9,23 @@
   margin: 50px auto;
 }
 
+/* style for id="salutation" */
 #salutation {
   font-family: "Euclid", sans-serif;
   font-style: bold;
   font-size: 50px;
 }
 
-#text {
+/* style for class="text" */
+.text {
   font-family: "Euclid", sans-serif;
   font-style: normal;
   font-size: 20px;
 }
 
-p {
+/*p {
   display: block;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+}*/
