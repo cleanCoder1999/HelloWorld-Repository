@@ -39,7 +39,7 @@ p {
   /* font settings */
   font-family: "Euclid", sans-serif;
   font-style: normal;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #repo-links {
@@ -49,4 +49,9 @@ p {
   font-style: bold;
   font-size: 40px;
 }  
-  
+
+#links {
+  font-family: "Euclid", sans-serif;
+  font-style: normal;
+  font-size: 15px;
+}
