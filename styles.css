@@ -5,15 +5,20 @@
 
 #customOctocat {
   display: block;
-  width:200px;
-  /*margin-right: 50px;*/
+  width:250px;
+  /* place it in upper right corner */
   float: right;
-  margin: 0px, 0px, 15px, 15px;
+  /* move it to down and left */
+  margin-top: 50px;
+  margin-right: 50px;
 }
 
 /* style for id="salutation" */
 #salutation {
+  /* move it to down and right */
+  margin-top: 50px;
   margin-left: 50px;
+  /* font settings */
   font-family: "Euclid", sans-serif;
   font-style: bold;
   font-size: 50px;
