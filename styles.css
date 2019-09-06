@@ -50,21 +50,19 @@ p {
   font-size: 30px;
 }  
 
-#paragraph-links {
-   line-height: 1.6; 
-}
-
 #main-links {
   margin-top: 10px;
   margin-left: 50px;
+  line-height: 1.6; 
   font-family: "Euclid", sans-serif;
   font-style: normal;
   font-size: 15px;
 }
 
-#sub-links {
+#sub-link {
   margin-top: 10px;
   margin-left: 55px;
+  line-height: 1.6; 
   font-family: "Euclid", sans-serif;
   font-style: normal;
   font-size: 15px;
