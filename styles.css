@@ -4,10 +4,10 @@
 }
 
 #customOctocat {
-  float: left;
+  /*float: left;*/
   display: block;
   width:350px;
-  /*margin-right: 50px;*/
+  margin-right: 50px;
 }
 
 /* style for id="salutation" */
