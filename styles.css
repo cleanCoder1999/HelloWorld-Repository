@@ -11,21 +11,34 @@
 
 /* style for id="salutation" */
 #salutation {
+  margin-left: 50px;
   font-family: "Euclid", sans-serif;
   font-style: bold;
   font-size: 50px;
 }
 
 /* style for class="text" */
-.text {
+/*.text {
   font-family: "Euclid", sans-serif;
   font-style: normal;
   font-size: 20px;
-}
+}*/
 
-/*p {
+/*
+p {
   display: block;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }*/
+
+p {
+  display: block;
+  width: 400px;
+  /* left align, 50px from left window border*/
+  margin-left: 50px;
+  /* font settings */
+  font-family: "Euclid", sans-serif;
+  font-style: normal;
+  font-size: 20px;
+}
